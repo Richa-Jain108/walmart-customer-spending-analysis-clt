@@ -10,11 +10,11 @@ The objective is to transform transactional data into actionable business insigh
 
 ## 📄 Project Deliverables
 
-| Resource                                                                                                                                                            | Description                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 📓 **[Google Colab Notebook](https://github.com/Richa-Jain108/walmart-customer-spending-analysis-clt/blob/main/notebooks/walmart-customer-spending-analysis-clt.ipynb)** | Complete analysis, code implementation, visualizations, statistical inference, business insights, and recommendations |
-| 📑 **[Analysis Report (PDF)](https://github.com/Richa-Jain108/walmart-customer-spending-analysis-clt/blob/main/reports/Walmart%20Analysis%20Report.pdf)**           | Detailed business report containing findings, confidence interval analysis, CLT implementation, and recommendations   |
-| 📊 **[Dataset](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094)**                                       | Walmart Black Friday transaction dataset used for analysis                                                            |
+| Resource                                                                                                                                                  | Description                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 📑 **[Analysis Report (PDF)](https://github.com/Richa-Jain108/walmart-customer-spending-analysis-clt/blob/main/reports/Walmart%20Analysis%20Report.pdf)** | Detailed business report containing findings, confidence interval analysis, CLT implementation, and recommendations |
+| 📊 **[Dataset](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094)**                             | Walmart Black Friday transaction dataset used for analysis                                                          |
+                                                      |
 
 ---
 
